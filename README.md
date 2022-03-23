@@ -1,4 +1,4 @@
-This small project is to assess a Shopify engineering candidate's procifiency with Shopify theme development, Javascript and CSS. The goal is to create a recently viewed products section on the product detail page.
+This small project is to assess a Shopify engineering candidate's procifiency with Shopify theme development, Javascript and CSS. The goal is to create a recently viewed products section on the product detail page and show product upsells on the cart page if time permits.
 
 ## Requirements
 

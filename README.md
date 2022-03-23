@@ -4,17 +4,18 @@ This small project is to assess a Shopify engineering candidate's procifiency wi
 
 Please complete the following features:
 
+- Display product upsells from the 'upsell' collection on the cart page
+  - Create a new section that can be enabled/disabled in theme settings
+  - Display a grid of 2 products from the 'upsell' collection that link to each product page
+  - Write styles to match the design below
+  - Send a Google Analytics event when product is clicked
  - Track and display recently viewed products on product detail page
    - Keep track of viewed products using a localstorage or a cookie
    - Create a new section that can be enabled/disabled in theme settings
    - Displays a grid of 1-4 recently viewed products that link to each product page
    - Write styles to match the design below
    - Send a Google Analytics event when product is clicked
-- Display product upsells from the 'upsell' collection on the cart page
-  - Create a new section that can be enabled/disabled in theme settings
-  - Display a grid of 2 products from the 'upsell' collection that link to each product page
-  - Write styles to match the design below
-  - Send a Google Analytics event when product is clicked
+
   
 ## Getting Started
 

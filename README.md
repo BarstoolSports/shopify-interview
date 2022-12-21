@@ -28,8 +28,8 @@ Be sure to install the [Shopify CLI](https://shopify.dev/themes/tools/cli).
 ## Design
 
 ### Desktop design
-<img width="1239" alt="Screen Shot 2022-03-23 at 8 22 09 AM" src="https://user-images.githubusercontent.com/9220514/159698452-220aa9ed-f4c3-4057-8f05-a43a90e13be2.png">
-
+<img width="1130" alt="Screen Shot 2022-12-21 at 10 46 48 AM" src="https://user-images.githubusercontent.com/9220514/208945939-36936ad3-ce65-4f03-aacf-cb30dbb2d8de.png">
 
 ### Mobile design
-<img width="645" alt="Screen Shot 2022-03-23 at 8 22 50 AM" src="https://user-images.githubusercontent.com/9220514/159698483-ffeb0800-368b-4439-89de-4f0bbfa5db79.png">
+<img width="571" alt="Screen Shot 2022-12-21 at 10 48 07 AM" src="https://user-images.githubusercontent.com/9220514/208946022-0fadcef5-e183-46d2-9e8a-d96531f0d49f.png">
+

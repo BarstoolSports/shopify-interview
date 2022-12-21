@@ -21,9 +21,8 @@ Please complete the following features:
 
 Be sure to install the [Shopify CLI](https://shopify.dev/themes/tools/cli).
 
-* First, log in: `shopify login --store=fake-barstool`
-* In a new directory pull the live theme: `shopify theme pull`
-* Serve your development theme and start building: `shopify theme serve`
+* In a new directory pull the live theme: `shopify theme pull --store=fake-barstool`
+* Serve your development theme and start building: `shopify theme dev`
 
 ## Design
 
